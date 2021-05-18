@@ -14,6 +14,10 @@ public class Demo {
 		driver.findElement(By.xpath("//h5[contains(text(),'Forms')]")).click();
 		System.out.println("Post Jira");
 		System.out.println("Post Jira 2");
+		System.out.println("Post Jira 3");
+		System.out.println("Post Jira 4");
+		System.out.println("Post Jira 5");
+		System.out.println("Post Jira 6");
 		
 	}
 
