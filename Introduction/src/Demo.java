@@ -12,6 +12,8 @@ public class Demo {
 		 
 		driver.get("http://demoqa.com");
 		driver.findElement(By.xpath("//h5[contains(text(),'Forms')]")).click();
+		System.out.println("Post Jira");
+		System.out.println("Post Jira 2");
 		
 	}
 
