@@ -23,6 +23,8 @@ public class Assignment {
 		driver.switchTo().alert().dismiss();
 		
 		System.out.println("Post Jira");
+		System.out.println("Test");
+		System.out.println("Test2");
 
 	}
 

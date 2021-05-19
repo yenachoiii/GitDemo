@@ -19,6 +19,9 @@ public class Demo {
 		System.out.println("Post Jira 5");
 		System.out.println("Post Jira 6");
 		
+		System.out.println("Test");
+		System.out.println("Test2");
+		
 	}
 
 }
